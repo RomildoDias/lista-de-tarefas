@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: rgb(18,41,85);
+    background: linear-gradient(0deg, rgba(18,41,85,1) 35%, rgba(0,0,11,0.9808298319327731) 95%, rgba(23,58,65,1) 100%);
+    color: #fff;
+    width: 100%;
+    font-family: sans-serif;
+}
+button{
+    cursor: pointer;
+}

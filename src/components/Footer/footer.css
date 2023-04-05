@@ -1,0 +1,25 @@
+ *{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+ }
+ 
+ .footer-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 100vw;
+    min-height: 5%;
+    background-color: #09196e;
+    position: absolute;
+    bottom: -1px;
+    padding: 0.5rem;
+}
+.footer-container p{
+    font-family:  Helvetica, sans-serif;
+    font-size: 0.8rem;
+}
+.footer-container i{
+    font-weight: bolder;
+}
